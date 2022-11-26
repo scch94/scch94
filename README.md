@@ -1,7 +1,7 @@
 ![Add a heading (1)](https://user-images.githubusercontent.com/109535432/204095015-7be0d5f8-bef0-44d2-8b43-008e3426396c.png)
 
 <h1 align="center">Hola👋, mi nombre es santiago canal</h1>
-<h4> soy un junior Full Stack Developer, tripulante graduado del proyecto mision-tic 2022 y estudiante del Bootcamp SoyHenry, desde hace un año decidí dar un cambio a mi carrera profesional para dedicarme totalmente al desarrollo web y estoy listo para probarme en el medio laboral.<h4/>
+<h4> I am a junior Full Stack Developer, I was a member of the mission-tic 2022 project and a student of the SoyHenry Bootcamp, a year ago I decided to make a change in my professional career to dedicate myself totally to web development and I am ready to enter the job market.<h4/>
 
 
 - 🔭 I’m currently working on [E-Commerce website](https://scch94.github.io/devgroupFrontend/)
@@ -10,9 +10,7 @@
 
 - 📫 How to reach me **santycanal_06@hotmail.com**
   
-<h3 align="left">Contacto:</h3>
-<p align="left"> <a href="https://github.com/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.linkedin.com/in/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -29,4 +27,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+<h3 align="left">Connect with me::</h3>
+<p align="left"> <a href="https://github.com/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.linkedin.com/in/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </p>
