@@ -1,4 +1,7 @@
-![Uploading 204095015-7be0d5f8-bef0-44d2-8b43-008e3426396c.png…]()
+<div>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://user-images.githubusercontent.com/109535432/204095015-7be0d5f8-bef0-44d2-8b43-008e3426396c.png)"/> 
+  
+<div/>
 
 <h1 align="center">Hi 👋, I'm santiago canal</h1>
 <h3 align="center">Full stack developer</h3>
