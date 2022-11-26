@@ -3,6 +3,13 @@
 <h1 align="center">Hola👋, mi nombre es santiago canal</h1>
 <h4> soy un junior Full Stack Developer, tripulante graduado del proyecto mision-tic 2022 y estudiante del Bootcamp SoyHenry, desde hace un año decidí dar un cambio a mi carrera profesional para dedicarme totalmente al desarrollo web y estoy listo para probarme en el medio laboral.<h4/>
 
+
+- 🔭 I’m currently working on [E-Commerce website](https://scch94.github.io/devgroupFrontend/)
+
+- 🌱 I’m currently learning **TypeScript and Mongo DB**
+
+- 📫 How to reach me **santycanal_06@hotmail.com**
+  
 <h3 align="left">Contacto:</h3>
 <p align="left"> <a href="https://github.com/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.linkedin.com/in/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </p>
