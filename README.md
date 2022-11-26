@@ -1,7 +1,6 @@
 ![Add a heading (1)](https://user-images.githubusercontent.com/109535432/204095015-7be0d5f8-bef0-44d2-8b43-008e3426396c.png)
 
-<h1 align="center">Hi 👋, I'm santiago canal</h1>
-<h3 align="center">Full stack developer</h3>
+<h1 align="center">Hola👋, mi nombre es santiago canal</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://github.com/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.linkedin.com/in/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
