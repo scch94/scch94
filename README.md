@@ -32,4 +32,8 @@
 <p align="left"> <a href="https://github.com/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.linkedin.com/in/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scch94&show_icons=true&locale=en&layout=compact" alt="scch94" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scch94&show_icons=true&locale=en&layout=compact" alt="scch94" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scch94&show_icons=true&locale=en" alt="scch94" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scch94&" alt="scch94" /></p>
