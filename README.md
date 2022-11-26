@@ -17,6 +17,8 @@
 <h3 align="left">projects:</h3>
 <br/>
 
+[Sistema de gestión de proyectos_VFinal.pdf](https://github.com/scch94/scch94/files/10097226/Sistema.de.gestion.de.proyectos_VFinal.pdf)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
