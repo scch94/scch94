@@ -1,8 +1,8 @@
 ![Add a heading (1)](https://user-images.githubusercontent.com/109535432/204095015-7be0d5f8-bef0-44d2-8b43-008e3426396c.png)
 
-<h1 align="center">Hola👋, mi nombre es santiago canal</h1>
+<h1 align="center">Hi 👋, I'm santiago canal</h1>
 <h4> I am a junior Full Stack Developer, I was a member of the mission-tic 2022 project and a student of the SoyHenry Bootcamp, a year ago I decided to make a change in my professional career to dedicate myself totally to web development and I am ready to enter the job market.<h4/>
-
+<br/>
 
 - 🔭 I’m currently working on [E-Commerce website](https://scch94.github.io/devgroupFrontend/)
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me **santycanal_06@hotmail.com**
   
 
-
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -28,12 +28,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
+<br/>
 <h3 align="left">Connect with me::</h3>
 <p align="left"> <a href="https://github.com/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.linkedin.com/in/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scch94&show_icons=true&locale=en&layout=compact" alt="scch94" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scch94&show_icons=true&locale=en" alt="scch94" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scch94&" alt="scch94" /></p>
