@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **santycanal_06@hotmail.com**
   
+- 💬 Ask me about **JavaScript | React | Redux | Node.js | Express | JAVA | Spring**
+  
 
 <br/>
 <h3 align="left">projects:</h3>
