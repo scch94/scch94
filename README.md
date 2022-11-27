@@ -32,15 +32,15 @@ Desarrollo de una pagina web funcional con el objetivo de simular una tienda de 
   <br/>
 -<a href="https://scch94.github.io/frontend.devgroup/"><span>deploy del proyecto<span/><a/>
 <br/>
-  <h5>- 📝 SISTEMA DE INGRESOS Y EGRESOS</h5>
-  <br/>
+<h5>- 📝 SISTEMA DE INGRESOS Y EGRESOS</h5>
+<br/>
 -Tecnologias utilizadas : Java - Spring
 <br/>
 realizado en : misiontic 2022 
 Se realizo un aplicativo web para que un administrador pueda gestionar los
 ingresos y egresos de distintas empresas lo cual faciilite la toma de deciciones. el sistema tiene persistencia de batos en una base de datos relacional PostgreSQL
- <br/> 
--PDF con las necesidades especificas del programa[Sistema de gestión de proyectos_VFinal.pdf](https://github.com/scch94/scch94/files/10097226/Sistema.de.gestion.de.proyectos_VFinal.pdf)
+<br/> 
+-PDF con las necesidades especificas del programa[Sistema de gestión de proyectos_VFinal.pdf]
   <br/>
 -<a href="https://github.com/SpeedCodeCol/proyecto>repositorio"><span>repositorio<span/><a/>
 <br/>
