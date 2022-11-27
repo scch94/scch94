@@ -25,7 +25,7 @@
   <br/>
   Base de datos: Mongo db
 <br/>
-realizado en : misiontic 2022 
+Realizado en : misiontic 2022 
 Desarrollo de una pagina web funcional con el objetivo de simular una tienda de ropa, el proyecto tiene registro de usuarios, control de roles, sistema de compras y stack de productos donde la información es modificable por el administrador de la pagina. 
   <br/>
 -<a href="https://scch94.github.io/frontend.devgroup/"><span>Deploy<span/><a/>
