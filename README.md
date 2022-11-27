@@ -14,31 +14,27 @@
   
 
 
-## -👨‍💻 Projects:
-### - 📝 E-comerce website
+## 👨‍💻 Projects:
+### 📝 E-comerce website
 -Tecnologias utilizadas : JavaScript
-  <br/>
-  frontend: HTML | CSS | React | Redux | Boostrap | 
-  <br/>
-  backend: Node.js | Express | mongoose
-  <br/>
-  Base de datos: Mongo db
+ -frontend: HTML, CSS, React, Redux, Boostrap 
+ -backend: Node.js, Express, mongoose
+  -Base de datos: Mongo db
 <br/>
--Realizado en : misiontic 2022 
--Desarrollo de una pagina web funcional con el objetivo de simular una tienda de ropa, el proyecto tiene registro de usuarios, control de roles, sistema de compras y stack de productos donde la información es modificable por el administrador de la pagina. 
+- Realizado en : misiontic 2022 
+- Desarrollo de una pagina web funcional con el objetivo de simular una tienda de ropa, el proyecto tiene registro de usuarios, control de roles, sistema de compras y stack de productos donde la información es modificable por el administrador de la pagina. 
   <br/>
 - Live site URL [Live](https://e-commerce-ten-swart-18.vercel.app/)
 
-### -📝 SISTEMA DE INGRESOS Y EGRESOS
+### 📝 SISTEMA DE INGRESOS Y EGRESOS
 -Tecnologias utilizadas : Java - Spring
 - Realizado en : misiontic 2022 
 -Se realizo un aplicativo web para que un administrador pueda gestionar los
 ingresos y egresos de distintas empresas lo cual faciilite la toma de deciciones. el sistema tiene persistencia de batos en una base de datos relacional PostgreSQL
-<br/>
-  <br/>
--<a href="https://github.com/SpeedCodeCol/proyecto"><span>repositorio<span/><a/>
-<br/>
-## Skills
+- Repositorio: [repo](https://github.com/SpeedCodeCol/proyecto)
+
+  
+## Skills:
 
 ### Markup Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,)](https://skillicons.dev)
