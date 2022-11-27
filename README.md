@@ -14,8 +14,8 @@
   
 
 
-##-👨‍💻 Projects:
-###- 📝 E-comerce website
+## -👨‍💻 Projects:
+### - 📝 E-comerce website
 -Tecnologias utilizadas : JavaScript
   <br/>
   frontend: HTML | CSS | React | Redux | Boostrap | 
@@ -29,7 +29,7 @@
   <br/>
 - Live site URL [Live](https://e-commerce-ten-swart-18.vercel.app/)
 
-###-📝 SISTEMA DE INGRESOS Y EGRESOS
+### -📝 SISTEMA DE INGRESOS Y EGRESOS
 -Tecnologias utilizadas : Java - Spring
 - Realizado en : misiontic 2022 
 -Se realizo un aplicativo web para que un administrador pueda gestionar los
@@ -38,23 +38,23 @@ ingresos y egresos de distintas empresas lo cual faciilite la toma de deciciones
   <br/>
 -<a href="https://github.com/SpeedCodeCol/proyecto"><span>repositorio<span/><a/>
 <br/>
-# Skills
+## Skills
 
-## Markup Languages
+### Markup Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,)](https://skillicons.dev)
 
-## Programming Languages
+### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=javascript,java,py)](https://skillicons.dev)
 
-## Frameworks
+### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,redux,spring)](https://skillicons.dev)
 
-## Databases
+### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-## IDEs and Tools
+### IDEs and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
-##Connect with me:
+## Connect with me:
 <p align="left"> <a href="https://github.com/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.linkedin.com/in/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </p>
 
