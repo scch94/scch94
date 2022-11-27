@@ -15,6 +15,19 @@
 
 <br/>
 <h3 align="left">projects:</h3>
+  <br/>
+  <h5>E-comerce website</h5>
+  <br/>
+-Tecnologias utilizadas : JavaScript
+  frontend: HTML | CSS | React | Redux | Boostrap | 
+  backend: Node.js | Express | mongoose 
+  Base de datos: Mongo db
+<br/>
+realizado en : misiontic 2022 
+Desarrollo de una pagina web funcional con el objetivo de simular una tienda de ropa, el proyecto tiene registro de usuarios, control de roles, sistema de compras y stack de productos donde la información es modificable por el administrador de la pagina.
+ 
+  <br/>
+-<a href="https://scch94.github.io/frontend.devgroup/"><span>deploy del proyecto<span/><a/>
 <br/>
   <h5>SISTEMA DE INGRESOS Y EGRESOS</h5>
   <br/>
