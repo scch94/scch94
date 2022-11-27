@@ -51,6 +51,12 @@ ingresos y egresos de distintas empresas lo cual faciilite la toma de deciciones
 ### IDEs and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 ## Connect with me:
-<p align="left"> <a href="https://github.com/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.linkedin.com/in/scch94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://github.com/scch94">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="http://www.linkedin.com/in/scch94">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
