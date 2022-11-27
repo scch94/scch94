@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm santiago canal</h1>
 <h4> I am a junior Full Stack Developer, I was a member of the mission-tic 2022 project and a student of the SoyHenry Bootcamp, a year ago I decided to make a change in my professional career to dedicate myself totally to web development and I am ready to enter the job market.<h4/>
 <br/>
-- 🔭 I’m currently working on [E-Commerce website](https://scch94.github.io/devgroupFrontend/)
+- 🔭 I’m currently working on <a href"https://scch94.github.io/frontend.devgroup/"><span>E-Commerce website<span/><a/>
 
 - 🌱 I’m currently learning **TypeScript and Mongo DB**
 
@@ -26,9 +26,9 @@
   Base de datos: Mongo db
 <br/>
 realizado en : misiontic 2022 
-Desarrollo de una pagina web funcional con el objetivo de simular una tienda de ropa, el proyecto tiene registro de usuarios, control de roles, sistema de compras y stack de productos donde la información es modificable por el administrador de la pagina.
- 
+Desarrollo de una pagina web funcional con el objetivo de simular una tienda de ropa, el proyecto tiene registro de usuarios, control de roles, sistema de compras y stack de productos donde la información es modificable por el administrador de la pagina. 
   <br/>
+<a href"https://scch94.github.io/frontend.devgroup/"><span>Deploy<span/><a/>
 
 <br/>
 <h5>- 📝 SISTEMA DE INGRESOS Y EGRESOS</h5>
