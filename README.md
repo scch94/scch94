@@ -39,10 +39,10 @@ Desarrollo de una pagina web funcional con el objetivo de simular una tienda de 
 realizado en : misiontic 2022 
 Se realizo un aplicativo web para que un administrador pueda gestionar los
 ingresos y egresos de distintas empresas lo cual faciilite la toma de deciciones. el sistema tiene persistencia de batos en una base de datos relacional PostgreSQL
-<br/> 
--PDF con las necesidades especificas del programa[Sistema de gestión de proyectos_VFinal.pdf]
+<br/>
+-Sistema de gestión de proyectos_VFinal.pdf
   <br/>
--<a href="https://github.com/SpeedCodeCol/proyecto>repositorio"><span>repositorio<span/><a/>
+-<a href="https://github.com/SpeedCodeCol/proyecto"><span>repositorio<span/><a/>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
