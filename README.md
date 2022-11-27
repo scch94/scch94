@@ -14,13 +14,16 @@
   
 
 <br/>
-<h3 align="left">projects:</h3>
+<h3 align="left">- 👨‍💻 Projects:</h3>
   <br/>
-  <h5>E-comerce website</h5>
+  <h5>- 📝 E-comerce website</h5>
   <br/>
 -Tecnologias utilizadas : JavaScript
+  <br/>
   frontend: HTML | CSS | React | Redux | Boostrap | 
-  backend: Node.js | Express | mongoose 
+  <br/>
+  backend: Node.js | Express | mongoose
+  <br/>
   Base de datos: Mongo db
 <br/>
 realizado en : misiontic 2022 
@@ -29,18 +32,18 @@ Desarrollo de una pagina web funcional con el objetivo de simular una tienda de 
   <br/>
 -<a href="https://scch94.github.io/frontend.devgroup/"><span>deploy del proyecto<span/><a/>
 <br/>
-  <h5>SISTEMA DE INGRESOS Y EGRESOS</h5>
+  <h5>- 📝 SISTEMA DE INGRESOS Y EGRESOS</h5>
   <br/>
 -Tecnologias utilizadas : Java - Spring
 <br/>
 realizado en : misiontic 2022 
 Se realizo un aplicativo web para que un administrador pueda gestionar los
 ingresos y egresos de distintas empresas lo cual faciilite la toma de deciciones. el sistema tiene persistencia de batos en una base de datos relacional PostgreSQL
-  
+ <br/> 
 -PDF con las necesidades especificas del programa[Sistema de gestión de proyectos_VFinal.pdf](https://github.com/scch94/scch94/files/10097226/Sistema.de.gestion.de.proyectos_VFinal.pdf)
   <br/>
 -<a href="https://github.com/SpeedCodeCol/proyecto>repositorio"><span>repositorio<span/><a/>
-
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
