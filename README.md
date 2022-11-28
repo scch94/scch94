@@ -1,6 +1,5 @@
 ![Add a heading (1)](https://user-images.githubusercontent.com/109535432/204095015-7be0d5f8-bef0-44d2-8b43-008e3426396c.png)
 
-<br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2CI'm+Santiago+Canal)](https://git.io/typing-svg)
 <br/>
 <h4> I am a junior Full Stack Developer, I was a member of the mission-tic 2022 project and a student of SoyHenry Bootcamp, a year ago I decided to make a change in my professional carrer to dedicate myself totally to web development and I am ready to enter the job market.<h4/>
