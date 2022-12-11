@@ -23,6 +23,7 @@
 <br/>
 - Realizado en : misiontic 2022 
 - Desarrollo de una pagina web funcional con el objetivo de simular una tienda de ropa, el proyecto tiene registro de usuarios, control de roles, sistema de compras y stack de productos donde la información es modificable por el administrador de la pagina. 
+- Si quieres ingresar con rol de administrador correo: `devgroup24@gmail.com`, contraseña: `123456789`
   <br/>
 - Live site URL [Live](https://e-commerce-ten-swart-18.vercel.app/)
 
