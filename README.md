@@ -1,63 +1,87 @@
-![Add a heading (1)](https://user-images.githubusercontent.com/109535432/204095015-7be0d5f8-bef0-44d2-8b43-008e3426396c.png)
+About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2CI'm+Santiago+Canal)](https://git.io/typing-svg)
-<br/>
-<h4> I am a junior Full Stack Developer, I was a member of the mission-tic 2022 project and a student of SoyHenry Bootcamp, a year ago I decided to make a change in my professional carrer to dedicate myself totally to web development and I am ready to enter the job market.<h4/>
-<br/>
-- 🔭 I’m currently working on <a href="https://scch94.github.io/frontend.devgroup/"><span>E-Commerce website<span/><a/>
+I am a Backend Developer with over two years of experience in software development, currently working at Inswitch. I specialize in building scalable APIs, microservices, and distributed systems, leveraging modern technologies to optimize performance and application stability.
 
-- 🌱 I’m currently learning **TypeScript and Mongo DB**
+I stand out for my proactivity, problem-solving skills, and continuous improvement mindset. I thrive in dynamic environments, applying agile methodologies (Scrum, Kanban) and collaborating with multidisciplinary teams to develop efficient and high-impact solutions.
 
-- 📫 How to reach me **santycanal_06@hotmail.com**
+🔭 Current Projects
+
+Optimizing API performance and stability at Inswitch
+
+Learning advanced Kubernetes orchestration
+
+🌱 Currently Learning
+
+Advanced TypeScript and Golang optimizations
+
+AWS and Kubernetes advanced deployments
+
+💬 Ask me about
+
+Java | Spring Boot | Golang | Erlang | Node.js | PostgreSQL | Oracle SQL | AWS | Microservices
+
+👨‍💻 Projects
+
+📝 E-commerce Website
+
+Technologies: JavaScript
+
+Frontend: HTML, CSS, React, Redux, Bootstrap
+
+Backend: Node.js, Express, Mongoose
+
+Database: MongoDB
+
+Developed as part of MisionTIC 2022
+
+Fully functional web store with user registration, role management, purchasing system, and product inventory
+
+Admin credentials: Email: devgroup24@gmail.com | Password: 123456789
+
+Live Demo: Live
+
+📝 Income & Expense Management System
+
+Technologies: Java - Spring Boot
+
+Developed during MisionTIC 2022
+
+Built a web application for business administrators to manage income and expenses
+
+Integrated with a PostgreSQL relational database
+
+Repository: repo
+
+🚀 Skills
+
+🏗️ Programming Languages
+
+    
+
+⚙️ Frameworks & Tools
+
+    
+
+🗄️ Databases
+
+   
+
+☁️ Cloud & DevOps
+
   
-- 💬 Ask me about **JavaScript | React | Redux | Node.js | Express | JAVA | Spring**
-  
 
-
-## 👨‍💻 Projects:
-### 📝 E-comerce website
--Tecnologias utilizadas : JavaScript
- -frontend: HTML, CSS, React, Redux, Boostrap 
- -backend: Node.js, Express, mongoose
-  -Base de datos: Mongo db
-<br/>
-- Realizado en : misiontic 2022 
-- Desarrollo de una pagina web funcional con el objetivo de simular una tienda de ropa, el proyecto tiene registro de usuarios, control de roles, sistema de compras y stack de productos donde la información es modificable por el administrador de la pagina. 
-- Si quieres ingresar con rol de administrador correo: `devgroup24@gmail.com`, contraseña: `123456789`
-  <br/>
-- Live site URL [Live](https://e-commerce-ten-swart-18.vercel.app/)
-
-### 📝 SISTEMA DE INGRESOS Y EGRESOS
--Tecnologias utilizadas : Java - Spring
-- Realizado en : misiontic 2022 
--Se realizo un aplicativo web para que un administrador pueda gestionar los
-ingresos y egresos de distintas empresas lo cual faciilite la toma de deciciones. el sistema tiene persistencia de batos en una base de datos relacional PostgreSQL
-- Repositorio: [repo](https://github.com/SpeedCodeCol/proyecto)
+🛠️ IDEs & Tools
 
   
-## Skills:
 
-### Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,)](https://skillicons.dev)
+🌍 Languages
 
-### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,py)](https://skillicons.dev)
+Spanish: Native
 
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,redux,spring)](https://skillicons.dev)
+English: C1 (Advanced)
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+📫 Connect with me
 
-### IDEs and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
-## Connect with me:
-<p align="left">
-  <a href="https://github.com/scch94">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="http://www.linkedin.com/in/scch94">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+ 
 
+📧 Email: santicanal1994@outlook.com
